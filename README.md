@@ -1,4 +1,4 @@
-# IN4150
+# Distributed Algorithms (IN4150) GROUP17
 # Minimum Spanning Trees (GHS algorithm)
 Gallagher-Humblet-Spira (GHS) algorithm is designed for generating a spanning tree T = (V, E’), such that the sum of the weights of all the edges is minimum. In this exercise, we implemented the GHS algorithm for creating MST networks, and our program is truly distributed that progresses run on 2 machines, each machine executes multiple processes. 
 
@@ -8,5 +8,5 @@ Replace computer ip and the file path.
 
 
 ## Authors
-- [Yu SHEN]()
+- [Yu SHEN](https://github.com/tokisamu/)
 - [Zhuoran GUO](https://github.com/guozhuoran918) 
