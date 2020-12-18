@@ -4,7 +4,6 @@ Gallagher-Humblet-Spira (GHS) algorithm is designed for generating a spanning tr
 
 ## Running the tests
 The test cases we use in this lab are graph2 and graph3. For running the tests, Firstly replace your own ip address and file path involved in codes, then running Nodemulti in one computer and running Nodemulti1 in another computer.
-Replace computer ip and the file path.
 
 
 ## Authors
